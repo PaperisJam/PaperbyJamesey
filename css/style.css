@@ -1074,7 +1074,7 @@ header{
 	max-width:1250px;
 }
 .custom-inner p, .custom-inner h2, a {
-	color:#fff;
+	color:#000000;
 	text-align:left;
 	font-size: 20px;
 }
@@ -1141,7 +1141,7 @@ header{
 	float:right;
 	width:60%;
 	position:relative;
-	background:#222;
+	background:#f7f1e5;
 	padding:90px 50px;
 }
 .section-columns-text .custom-inner {
