@@ -15,7 +15,6 @@ const imageUrls = [
     'images/gallery/IMG_1150.jpg',
     'images/gallery/IMG_1153.jpg',
     'images/gallery/IMG_1158.jpg',
-    'images/gallery/IMG_1159.jpg',
     'images/gallery/IMG_0428.jpg',
     'images/gallery/IMG_0431.jpg',
       // ... more image URLs
