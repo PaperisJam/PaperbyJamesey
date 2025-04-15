@@ -6,6 +6,7 @@ const imageUrls = [
     'images/gallery/IMG_0421.jpg',
     'images/gallery/IMG_0425.jpg',
     'images/gallery/IMG_1111.jpg',
+    'images/gallery/IMG_1178.jpg',
     'images/gallery/IMG_1136.jpg',
     'images/gallery/IMG_1142.jpg',
     'images/gallery/IMG_1144.jpg',
@@ -15,7 +16,6 @@ const imageUrls = [
     'images/gallery/IMG_1153.jpg',
     'images/gallery/IMG_1158.jpg',
     'images/gallery/IMG_1159.jpg',
-    'images/gallery/IMG_1163.jpg',
     'images/gallery/IMG_0428.jpg',
     'images/gallery/IMG_0431.jpg',
       // ... more image URLs
