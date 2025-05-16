@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
 const galleryItems = document.querySelectorAll('.gallery-item');
 const imageUrls = [
-    'images/gallery/IMG_0426.jpg',
+    'images/gallery/IMG_1224.jpg',
     'images/gallery/IMG_0421.jpg',
     'images/gallery/IMG_0425.jpg',
     'images/gallery/IMG_1111.jpg',
@@ -19,7 +19,7 @@ const imageUrls = [
     'images/gallery/IMG_0431.jpg',
     'images/gallery/IMG_1194.jpg',
     'images/gallery/IMG_1196.jpg',
-    'images/gallery/IMG_1197.jpg',
+    'images/gallery/IMG_1216.jpg',
     'images/gallery/IMG_1199.jpg',
     'images/gallery/IMG_1206.jpg',
       // ... more image URLs
